@@ -11,7 +11,7 @@ Clean and prepare raw data for Ml
 
 ## 🗂️ Folder Structure
 - data: Contains raw and cleaned data
-- task01-data-cleaning.ipynb: Scripts that was used for preprocessing data
+- task01-cleaning.ipynb: Scripts that was used for preprocessing data
 
 ## 🧪 Steps Performed
 1. Dropped 'Cabin' column with >50% null values.
